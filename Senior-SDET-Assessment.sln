@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiAutomation", "api-automation\ApiAutomation.csproj", "{61FEAC69-9584-1101-756A-4C1D0136AF00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SensorProcessor", "coding-task\SensorProcessor.csproj", "{77A2E193-9057-34C3-FE00-39753068A441}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61FEAC69-9584-1101-756A-4C1D0136AF00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61FEAC69-9584-1101-756A-4C1D0136AF00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61FEAC69-9584-1101-756A-4C1D0136AF00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61FEAC69-9584-1101-756A-4C1D0136AF00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77A2E193-9057-34C3-FE00-39753068A441}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77A2E193-9057-34C3-FE00-39753068A441}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77A2E193-9057-34C3-FE00-39753068A441}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77A2E193-9057-34C3-FE00-39753068A441}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E753EB65-5579-45DA-9010-6C8F18D49BCB}
+	EndGlobalSection
+EndGlobal

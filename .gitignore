@@ -1,0 +1,40 @@
+# Build Folders
+bin/
+obj/
+
+# Visual Studio / Rider files
+.vs/
+*.user
+*.suo
+*.sln.docstates
+
+# Rider IDE
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+*.nuspec
+
+# Test results
+TestResults/
+*.trx
+
+# Logs
+*.log
+
+# Node (if using any frontend scripts)
+node_modules/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# Visual Studio Code settings
+.vscode/
